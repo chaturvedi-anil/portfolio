@@ -77,22 +77,4 @@ export const projectDetails = [
 
         technologies: ["React", "SCSS", "Redux Toolkit", "Ruby on Rails", "REST Api", "Docker", "Kubernetes", "Helm Char", "Postgres", "AWS"]
     },
-    {
-        projectName: "Replatforn.dev", 
-        projectLink: "https://replatform.dev",
-        projectDescription: "RePlatform simplifies Kubernetes deployment, config management, and incident handling. Enjoy real-time monitoring, customizable alerts, and a user-friendly interface to streamline workflows and boost efficiency. Focus on building, we handle the rest.",
-
-        projectImg: replatformImg,
-
-        technologies: ["React", "SCSS", "Redux Toolkit", "Ruby on Rails", "REST Api", "Docker", "Kubernetes", "Helm Char", "Postgres", "AWS"]
-    },
-    {
-        projectName: "Replatforn.dev", 
-        projectLink: "https://replatform.dev",
-        projectDescription: "RePlatform simplifies Kubernetes deployment, config management, and incident handling. Enjoy real-time monitoring, customizable alerts, and a user-friendly interface to streamline workflows and boost efficiency. Focus on building, we handle the rest.",
-
-        projectImg: replatformImg,
-
-        technologies: ["React", "SCSS", "Redux Toolkit", "Ruby on Rails", "REST Api", "Docker", "Kubernetes", "Helm Char", "Postgres", "AWS"]
-    }
 ]
